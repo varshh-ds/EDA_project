@@ -8,7 +8,6 @@ This repository contains a Jupyter Notebook that performs **Exploratory Data Ana
 
 - `EDA_DS.ipynb`: Main notebook containing the step-by-step EDA process.
 - `README.md`: Project overview and usage instructions.
-- *(Optional)* `dataset.csv`: You can upload the dataset file if not already included.
 
 ---
 
@@ -20,7 +19,6 @@ The notebook includes:
 - 📊 Data Visualization  
 - 📈 Univariate and Bivariate Analysis  
 - 🧼 Missing Value Treatment  
-- 📌 Feature Engineering (if applicable)  
 - 💡 Insights and Summary  
 
 ---
